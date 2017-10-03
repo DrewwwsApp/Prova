@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252858838505",
+    "firebase_url": "https://prova-c1e6b.firebaseio.com",
+    "project_id": "prova-c1e6b",
+    "storage_bucket": "prova-c1e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252858838505:android:903082872d91e629",
+        "android_client_info": {
+          "package_name": "com.gmail.drewwwsapp.firebaseDatabase_demo_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252858838505-fbqh83rncapk62ka261oc9b9dcgvovkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1B7yUrMNbr4Z3RErLmf1SQ0DX-fVIvk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
